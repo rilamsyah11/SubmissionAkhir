@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="cari">Cari</string>
+    <string name="hint_search">Cari Username </string>
+    <string name="username">Username</string>
+    <string name="fullname">Full Name</string>
+    <string name="repo">Repository</string>
+    <string name="company">Company Name</string>
+    <string name="address">Address</string>
+    <string name="repository">Repository %1$s</string>
+    <string name="tabs_follower">Follower</string>
+    <string name="tabs_following">Following</string>
+    <string name="detailuser">Detail User</string>
+    <string name="favoriteuser">Favorite User</string>
+    <string name="settingapp">Setting App</string>
+    <string name="favorite_users">Favorite User</string>
+    <string name="details_users">Detail User</string>
+    <string name="dark_theme">Atur Tema Ke Mode Gelap</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
